@@ -1,0 +1,12 @@
+{
+    "API Key" : "Insert API key here",
+    "Location": "Exeter",
+    "Location Type": "ltla",
+    "Nation": "England",
+    "Local Cases Metric": "newCasesByPublishDate",
+    "Total Deaths Metric": "cumDeaths60DaysByDeathDate",
+    "National Cases Metric": "newCasesByPublishDate",
+    "News Terms": "Covid COVID-19 coronavirus",
+    "News Language": "en",
+    "News Sorting": "sortByrelevancy"
+}
